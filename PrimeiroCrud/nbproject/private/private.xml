@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/jeferson/NetBeansProjects/PrimeiroCrud/src/br/ifrn/queiroga/dao/AlunoDAOImpl.java</file>
+            <file>file:/home/jeferson/NetBeansProjects/PrimeiroCrud/src/br/ifrn/queiroga/model/Aluno.java</file>
+            <file>file:/home/jeferson/NetBeansProjects/PrimeiroCrud/src/br/ifrn/queiroga/visual/CriarAluno.java</file>
+            <file>file:/home/jeferson/NetBeansProjects/PrimeiroCrud/src/br/ifrn/queiroga/conexao/FabricaConexao.java</file>
+            <file>file:/home/jeferson/NetBeansProjects/PrimeiroCrud/src/br/ifrn/queiroga/model/Pessoa.java</file>
+            <file>file:/home/jeferson/NetBeansProjects/PrimeiroCrud/src/br/ifrn/queiroga/inferfaces/AlunoDAO.java</file>
+            <file>file:/home/jeferson/NetBeansProjects/PrimeiroCrud/src/br/ifrn/queiroga/aplicacao/PrimeiroCrud.java</file>
+        </group>
+    </open-files>
+</project-private>
